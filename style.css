@@ -15,7 +15,9 @@ main {
     width: 80%;
     margin: 30px auto;
 }
-
+*{
+    font-size: large;
+}
 section {
 
     background-color: lightgrey;
